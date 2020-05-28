@@ -23,8 +23,8 @@ DATABASES.update(
     {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'wordpres',  #  数据库名
-            'USER': 'wordpres',  #  用户
+            'NAME': 'wordpre',  #  数据库名
+            'USER': 'wordpre',  #  用户
             'PASSWORD': 'Bgx123.com',  # 数据库密码
             'HOST': '172.27.16.81', # 数据库 IP
             'PORT': '3306',
